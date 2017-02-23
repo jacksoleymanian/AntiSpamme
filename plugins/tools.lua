@@ -1,4 +1,4 @@
---Start tools.lua by @janlou
+--Start tools.lua by @tGuard
 --[[Plugins:
 savefile
 saveplug
@@ -1043,15 +1043,14 @@ function run(msg, matches, callback, extra)
 	   --ADV(Dont change!):
 	    if msg.text:match("^[!/#][Aa][Dd][Vv][Aa][Nn]$") then
     	    about_text = [[*IN THE NAME OF ALLAH*
-This is an original bot and based on (AdvanSource).
+This is an original bot and based on (TgGuard).
 Copyright all right reserved and you must respect all laws.
-
-Source: https://github.com/janlou/AdvanSource
-Channel: @AdvanTeam
-Messenger: @Advanbot
-Creator: @janlou
-Site: http://StoreVps.net
-Version: [4.1]
+Source: https://github.com/sajjad-021/tGuard
+Channel: @tgMember
+Messenger: @TgMessengerBot
+Creator: @sajjad_021
+Site: http://tgmember.cf
+Version: [4.0]
 ]]
     	    return about_text
         end
@@ -1243,9 +1242,9 @@ Version: [4.1]
 end
 
 return {
-  advan = {
-   "Created by: @janlou",
-   "Powered by: @AdvanTeam",
+  tGuard = {
+   "Created by: @sajjad_021",
+   "Powered by: @tgMember",
    "CopyRight all right reserved",
   },
   patterns = {
