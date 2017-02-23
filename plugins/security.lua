@@ -58,7 +58,7 @@ end
 	--Prerequisite.
 --Begin pre_process function
 local function pre_process(msg)
--- Begin 'RondoMsgChecks' text checks by @rondoozle and Edited by @janlou
+-- Begin 'RondoMsgChecks' text checks by @rondoozle and Edited by @tgMember
 -- Powered by @tGuard & CopyRight all right reserved
 if is_chat_msg(msg) or is_super_group(msg) then
 	local data = load_data(_config.moderation.data)
