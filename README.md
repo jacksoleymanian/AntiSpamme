@@ -1,20 +1,11 @@
-<p align="center"> ![http://nahrup.ir/view/876/adv-v4.png](http://nahrup.ir/view/876/adv-v4.png)
-<h1 align="left">`[⚓️](AdvanSource`, _bot with fast speed and high power)_</h1><p align=centert">  <p align="left">[![Join the chat at https://gitter.im/janlou/AdvanSource](https://badges.gitter.im/AdvanSource.svg)](https://gitter.im/janlou/AdvanSource?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-<h4> It is an anti spam bot (CLI) with fast speed and free for you! based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) and powered by [ADVAN™](http://telegram.me/advantm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
+<h1 align="left">TgGuard bot with fast speed and high power</h1>
+
+
+
+<p align="center"> ![http://pic.ibot24.com/b7c05f](http://pic.ibot24.com/b7c05f)
+
+
 ***
-<p align="left">Creator: [[ JOIN! ]](https://telegram.me/advanbot)
-<p align="left">Channel: [[ JOIN! ]](https://telegram.me/joinchat/CbNIGj07Z0YAy3CX5MRQaQ)
-<p align="left">Support: [[ JOIN! ]](https://telegram.me/joinchat/Bqy_YT_BXhTWrPiN97yvsg)
-***
-## You can create an account for free in:
-|Rank | Name | Adress |
-|:--------|:----------|:------------|
-| <h4>`Rank` _(1)_ | Codenvy | [https://codenvy.com](https://codenvy.com) |
-| <h4>`Rank` _(2)_ | Codeanywhere | [https://codeanywhere.com](https://codeanywhere.com) |
-| <h4>`Rank` _(3)_ | Cloud9 | [https://C9.io](https://C9.io) |
-| <h4>`Rank` _(4)_ | Koding | [https://koding.com](https://koding.com) |
-| <h4>`Rank` _(5)_ | SourceLair | [https://www.sourcelair.com/home](https://www.sourcelair.com) |
-| <h4>`Rank` _(6)_ | Nitrous | [https://www.nitrous.io/](https://www.nitrous.io) |
 
 ##Strong management:
 - <p align="left">Lock link
@@ -49,27 +40,22 @@
 | Commands | Usage | 
 |:--------|:----------|:------------|
 | <h4>[!#/]setlang `en` | Change launguage of supergroup to `enlish` when you are in a supergroup |
-| <h4>[!#/]setlang `fa` | تغییر زبان سوپرگروه به `فارسی با دستورات انگلیسی` زمانیکه شما در سوپرگروه میباشید |
-| <h4>[!#/]setlang `فا` | تغییر زبان سوپرگروه `فارسی با دستورات فارسی` زمانیکه شما در سوپرگروه میباشید |
+| <h4>[!#/]setlang `fa` | ????? ???? ???????? ?? `????? ?? ??????? ???????` ??????? ??? ?? ???????? ??????? |
+| <h4>[!#/]setlang `??` | ????? ???? ???????? `????? ?? ??????? ?????` ??????? ??? ?? ???????? ??????? |
 ## Chat's languages:
 | Commands | Usage | 
 |:--------|:----------|:------------|
 | <h4>[!#/]setlang `en` | Change launguage of chat to `enlish` when you are in a chat |
-| <h4>[!#/]setlang `fa` | تغییر زبان چت به `فارسی با دستورات انگلیسی` زمانیکه شما در چت میباشید |
-| <h4>[!#/]setlang `فا` | تغییر زبان چت `فارسی با دستورات فارسی` زمانیکه شما در چت میباشید |
+| <h4>[!#/]setlang `fa` | ????? ???? ?? ?? `????? ?? ??????? ???????` ??????? ??? ?? ?? ??????? |
+| <h4>[!#/]setlang `??` | ????? ???? ?? `????? ?? ??????? ?????` ??????? ??? ?? ?? ??????? |
 
 | INSTALL BOT |
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://github.com/janlou/AdvanSource && cd AdvanSource
+git clone https://github.com/sajjad-021/tGuard && cd tGuard && chmod 700 start.sh && start.sh install && ./start.sh
 ```
-- <p align="left">install bot:
-```sh
-chmod 700 start.sh
-./start.sh install
-y
-```
+
 | ANTI CRASH |
 |:-----------------------|
 ```sh
@@ -86,3 +72,20 @@ tmux new-session -s script "bash steady.sh -t"
 | BOUGHT SERVER: |
 |:-----------------------|
 | `screen ./steady.sh -t` |
+
+***
+
+## You can create an account for free in:
+|Rank | Name | Adress |
+|:--------|:----------|:------------|
+| <h4>`Rank` _(1)_ | Codenvy | [https://codenvy.com](https://codenvy.com) |
+| <h4>`Rank` _(2)_ | Codeanywhere | [https://codeanywhere.com](https://codeanywhere.com) |
+| <h4>`Rank` _(3)_ | Cloud9 | [https://C9.io](https://C9.io) |
+| <h4>`Rank` _(4)_ | Koding | [https://koding.com](https://koding.com) |
+| <h4>`Rank` _(5)_ | SourceLair | [https://www.sourcelair.com/home](https://www.sourcelair.com) |
+| <h4>`Rank` _(6)_ | Nitrous | [https://www.nitrous.io/](https://www.nitrous.io) |
+
+***
+
+#[Creator](https://telegram.me/sajjad_021)
+#[Channel](https://telegram.me/tgMember)
