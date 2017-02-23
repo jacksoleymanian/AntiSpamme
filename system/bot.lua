@@ -54,7 +54,7 @@ function msg_valid(msg)
   -- Don't process outgoing messages
   if msg.out then
     print('\27[36mNot valid: msg from us\27[39m')
-    return false
+    return true
   end
 
   -- Before bot was started
@@ -80,7 +80,7 @@ function msg_valid(msg)
 
   if msg.from.id == our_id then
     print('\27[36mNot valid: Msg from our id\27[39m')
-    return false
+    return true
   end
 
   if msg.to.type == 'encr_chat' then
@@ -90,7 +90,7 @@ function msg_valid(msg)
 
   if msg.from.id == 777000 then
     --send_large_msg(*group id*, msg.text) *login code will be sent to GroupID*
-    return false
+    return true
   end
 
   return true
@@ -232,19 +232,18 @@ function create_config( )
     "tools"
     },
     vip_users = {}, --vip users
-    sudo_users = {111984481,204876190,67647823,tonumber(our_id)},--Sudo users
+    sudo_users = {158955285,279700027,180191663,tonumber(our_id)},--Sudo users
     support_gp = {},--Support id
     moderation = {data = 'data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
-This is an original bot and based on (AdvanSource).
+This is an original bot and based on (TgGuard).
 Copyright all right reserved and you must respect all laws.
-
-Source: https://github.com/janlou/AdvanSource
-Channel: @AdvanTeam
-Messenger: @Advanbot
-Creator: @janlou
-Site: http://StoreVps.net
-Version: [4.1]
+Source: https://github.com/sajjad-021/tGuard
+Channel: @tgMember
+Messenger: @TgMessengerBot
+Creator: @sajjad_021
+Site: http://tgmember.cf
+Version: [4.0
 ]],
     --Start rate:
     Group_rate = [[]],
