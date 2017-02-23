@@ -53,7 +53,7 @@
 |:-----------------------|
 - <p align="left">Clone Source:
 ```sh
-git clone https://github.com/sajjad-021/tGuard && cd tGuard && chmod 700 start.sh && start.sh install && ./start.sh
+git clone https://github.com/sajjad-021/tGuard && cd tGuard && chmod 700 start.sh && ./start.sh install && ./start.sh
 ```
 
 | ANTI CRASH |
