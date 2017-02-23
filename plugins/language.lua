@@ -149,9 +149,9 @@ end
 end
 end
  return {
- advan = {
- "Created by: @janlou",
- "Powered by: @AdvanTm",
+ tGuard = {
+ "Created by: @tgMember",
+ "Powered by: @tGuard",
  "CopyRight all right reserved",
  },
  patterns = {
