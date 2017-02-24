@@ -225,6 +225,7 @@ function create_config( )
     "invite",
     "security",
     "plugins",
+    "ping",
     "sudo",
     "supergroup",
     "language",
@@ -236,14 +237,21 @@ function create_config( )
     support_gp = {},--Support id
     moderation = {data = 'data/adv.json'},
     about_text = [[*IN THE NAME OF ALLAH*
+		
+tGuard Version: 4.0
+		
 This is an original bot and based on (TgGuard).
 Copyright all right reserved and you must respect all laws.
+
 Source: https://github.com/sajjad-021/tGuard
 Channel: @tgMember
-Messenger: @TgMessengerBot
+		
+Messenger: @TgMessageBot
+		
 Creator: @sajjad_021
+		
 Site: http://tgmember.cf
-Version: [4.0
+		
 ]],
     --Start rate:
     Group_rate = [[]],
