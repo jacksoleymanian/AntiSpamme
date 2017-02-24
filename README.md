@@ -20,7 +20,7 @@
 ## INSTALL BOT
 
 ```sh
-git clone https://github.com/sajjad-021/tGuard && cd tGuard && chmod 700 start.sh && ./start.sh install && ./start.sh
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test -y; sudo apt-get autoclean; sudo apt-get update; sudo apt-get install git redis-server libconfig8-dev libjansson-dev lua5.2 liblua5.2-dev lua-lgi glib-2.0 libnotify-dev libssl-dev libssl1.0.0 make libstdc++6 g++-4.9 unzip libreadline-gplv2-dev libreadline5-dev tmux -y; git clone https://github.com/sajjad-021/tGuard && cd tGuard && chmod 700 start.sh && ./start.sh install && ./start.sh
 ```
 
 ## ANTI CRASH
