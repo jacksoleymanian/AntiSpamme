@@ -1040,10 +1040,10 @@ function run(msg, matches, callback, extra)
 	        end
         end
 	   --Start.
-	    if msg.text:match("^[!/#][Tt][Gg][Gg][Uu][Aa][Rr][Dd]$") then
+	    if msg.text:match("^[!/#][Tt][Gg][Uu][Aa][Rr][Dd]$") then
     	    about_text = [[*IN THE NAME OF ALLAH*
 		
-tGuard Version: [4.0]
+tGuard Version: 4.0
 		
 This is an original bot and based on (TgGuard).
 
@@ -1051,7 +1051,7 @@ Source: https://github.com/sajjad-021/tGuard
 
 Channel: @tgMember
 
-Messenger: @TgMessengerBot
+Messenger: @TgMessageBot
 
 Creator: @sajjad_021
 
@@ -1282,7 +1282,7 @@ return {
  "^[!/#]([Ss]etbye) (.*)$",
  "^[!/#]([Dd]elbye)$",
  "^[!/#][Rr][Aa][Tt][Ee]$",
- "^[!/#][Tt][Gg][Gg][Uu][Aa][Rr][Dd]$",
+ "^[!/#][Tt][Gg][Uu][Aa][Rr][Dd]$",
  "^[!/#](lock) (.*)$",
  "^[!/#](unlock) (.*)$",
  "/[Ss][Tt][Aa][Rr][Tt]",
